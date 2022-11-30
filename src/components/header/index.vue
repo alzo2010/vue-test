@@ -18,12 +18,14 @@
         <select>
           <option>Язык 1</option>
           <option>Язык 2</option>
+          <option>Язык 3</option>
         </select>
       </div>
       <div>
         <select>
           <option>город 1</option>
           <option>город 2</option>
+          <option>город 3</option>
         </select>
       </div>
       <div>
